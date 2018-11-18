@@ -1,6 +1,8 @@
 # ds-uci-human-activity-tracker
 Human Activity Recognition Using Smartphones Dataset
 Dataset is used from UCI Machine Learning Repository
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 
 Thanks UCI for making this Dataset public. Text below this line is the content from the original README.txt file.
 
