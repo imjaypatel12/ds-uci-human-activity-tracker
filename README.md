@@ -3,6 +3,10 @@ Human Activity Recognition Using Smartphones Dataset
 Dataset is used from UCI Machine Learning Repository
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+## Setup
+1. Clone the project
+2. Download data archive from the above site and extract it to the root directory of the project repository.
+3. Run the jupyter notebook
 
 Thanks UCI for making this Dataset public. Text below this line is the content from the original README.txt file.
 
